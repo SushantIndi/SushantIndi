@@ -54,19 +54,13 @@ Java Full Stack Developer | React • Spring Boot • AWS
 <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
 <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
 
-<br><br>
-
 <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
 <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
 <img src="https://skillicons.dev/icons?i=redis" height="40"/>
 
-<br><br>
-
 <img src="https://skillicons.dev/icons?i=aws" height="40"/>
 <img src="https://skillicons.dev/icons?i=docker" height="40"/>
 <img src="https://skillicons.dev/icons?i=kubernetes" height="40"/>
-
-<br><br>
 
 <img src="https://skillicons.dev/icons?i=git" height="40"/>
 <img src="https://skillicons.dev/icons?i=linux" height="40"/>
