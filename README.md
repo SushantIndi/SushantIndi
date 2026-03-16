@@ -1,73 +1,106 @@
 <h1 align="center">Hi 👋, I'm Sushant Indi</h1>
-<h3 align="center">Java Full Stack Developer | Cloud Enthusiast ☁️</h3>
+
+<h3 align="center">
+Java Full Stack Developer | React • Spring Boot • AWS
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sushantindi&label=Profile%20Views&color=0e75b6&style=flat" alt="sushantindi" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;React+%7C+Spring+Boot+%7C+AWS;Cloud+and+DevOps+Learner;Building+Scalable+Web+Applications"/>
 </p>
 
----
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sushantindi&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
-### 👨‍💻 About Me
+<hr>
 
-- 🎓 Electronics & Communication Engineering (ECE) Graduate  
-- 💻 Passionate about **Full Stack Development & Cloud Technologies**
-- 🌱 Currently learning **AWS, Docker, Kubernetes, CI/CD**
-- 🚀 Interested in building **scalable web applications and cloud deployments**
-- 💬 Ask me about **Java, Spring Boot, JavaScript, ReactJS, NodeJS**
-- 📫 Reach me at **sushantmindi@gmail.com**
+<h3>👨‍💻 About Me</h3>
 
----
+<ul>
+<li>🎓 Electronics and Communication Engineering Graduate</li>
+<li>💻 Java Full Stack Developer</li>
+<li>☁️ Currently learning <b>AWS, Docker, Kubernetes</b></li>
+<li>🚀 Interested in building scalable web applications</li>
+<li>💬 Ask me about <b>Java, Spring Boot, ReactJS, NodeJS</b></li>
+<li>📫 Reach me at <b>sushantmindi@gmail.com</b></li>
+</ul>
 
-### 🤝 Connect with Me
+<hr>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/sushant-indi/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushant-indi" height="30" width="40" />
+<h3>🌐 Connect with Me</h3>
+
+<p>
+<a href="https://www.linkedin.com/in/sushant-indi/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 </p>
 
----
+<hr>
 
-### ⚙️ Languages and Tools
+<h3>⚙️ Languages and Tools</h3>
 
-<p align="left">
+<p>
 
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<img src="https://skillicons.dev/icons?i=java" height="40"/>
+<img src="https://skillicons.dev/icons?i=spring" height="40"/>
+<img src="https://skillicons.dev/icons?i=react" height="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+<img src="https://skillicons.dev/icons?i=js" height="40"/>
+<img src="https://skillicons.dev/icons?i=html" height="40"/>
+<img src="https://skillicons.dev/icons?i=css" height="40"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
 
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/></a>
+<br><br>
 
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a>
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+<img src="https://skillicons.dev/icons?i=redis" height="40"/>
 
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+<br><br>
 
-</p>
+<img src="https://skillicons.dev/icons?i=aws" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker" height="40"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" height="40"/>
 
----
+<br><br>
 
-### 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sushantindi&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantindi&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux" height="40"/>
+<img src="https://skillicons.dev/icons?i=postman" height="40"/>
 
 </p>
 
----
+<hr>
 
-### 🔥 GitHub Streak
+<h3>📊 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sushantindi&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=sushantindi&show_icons=true&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantindi&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<hr>
+
+<h3>🔥 GitHub Streak</h3>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sushantindi&theme=tokyonight"/>
+
+</p>
+
+<hr>
+
+<h3>📈 Contribution Graph</h3>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sushantindi&theme=tokyo-night"/>
+
 </p>
