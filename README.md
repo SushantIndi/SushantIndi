@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sushant Indi
 
 <h3 align="center">
-Software Engineer | Java Full Stack Developer | SAP BTP & CAP Developer
+Software Engineer | SAP BTP & CAP Developer | MERN Stack Developer
 </h3>
 
 <p align="center">
@@ -44,37 +44,59 @@ Software Engineer | Java Full Stack Developer | SAP BTP & CAP Developer
 
 ## 🚀 Featured Projects
 
-### 🏢 Leave Management System
+### 🏢 Leave Management App SAP
 
-**SAP CAP | SAP BTP | SAP HANA Cloud | XSUAA | Work Zone**
+**SAP CAP | SAP BTP | SAP HANA Cloud | XSUAA | Work Zone | Cloud Foundry**
 
-* Enterprise Leave Management Application
-* Role-Based Access Control
-* Authentication & Authorization using XSUAA
-* SAP Work Zone Integration
-* Cloud Foundry Deployment
-
----
-
-### 🏥 MediGrid Healthcare Platform
-
-**MERN Stack | MongoDB | Express.js | React.js | Node.js**
-
-* Multi-Hospital Patient Management System
-* Secure REST APIs
-* Dynamic Hospital Data Management
-* Scalable Architecture
+- Enterprise Leave Management Application
+- Role-Based Access Control (RBAC)
+- Authentication & Authorization using SAP XSUAA
+- SAP Work Zone Integration
+- Cloud Foundry Deployment
+- SAP HANA Cloud Database
 
 ---
 
-### 🎯 Smart Task Manager (Upcoming)
+### 🤖 AI Log Monitor
 
-**MERN Stack**
+**JavaScript | Monitoring & Analytics**
 
-* Task Tracking & Productivity Management
-* Authentication & Authorization
-* Dashboard Analytics
-* Real-Time Updates
+- Intelligent log monitoring system
+- Automated anomaly detection
+- Backend monitoring workflows
+- Log analysis and tracking
+
+---
+
+### ⚡ Payment Backend Latency
+
+**Node.js | Backend Engineering**
+
+- API latency monitoring
+- Backend performance analysis
+- Optimization-focused implementation
+- Service response tracking
+
+---
+
+### ☁️ Infrastructure Automation
+
+**Terraform | Cloud Automation**
+
+- Infrastructure as Code (IaC)
+- Automated provisioning workflows
+- Cloud infrastructure management
+
+---
+
+### 📚 CAP Node Bookshop
+
+**SAP CAP | CDS | OData**
+
+- SAP CAP reference implementation
+- Service modeling using CDS
+- OData service exposure
+- SAP CAP fundamentals
 
 ---
 
@@ -89,7 +111,7 @@ Software Engineer | Java Full Stack Developer | SAP BTP & CAP Developer
 <img src="https://skillicons.dev/icons?i=css" height="45"/>
 </p>
 
-### Frontend Development
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react" height="45"/>
@@ -97,11 +119,13 @@ Software Engineer | Java Full Stack Developer | SAP BTP & CAP Developer
 <img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
 </p>
 
-### Backend Development
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring" height="45"/>
 <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+<img src="https://skillicons.dev/icons?i=express" height="45"/>
+<img src="https://skillicons.dev/icons?i=maven" height="45"/>
 </p>
 
 ### Databases
@@ -109,7 +133,7 @@ Software Engineer | Java Full Stack Developer | SAP BTP & CAP Developer
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
-<img src="https://skillicons.dev/icons?i=redis" height="45"/>
+<img src="https://skillicons.dev/icons?i=sqlite" height="45"/>
 </p>
 
 ### Cloud & DevOps
@@ -119,23 +143,33 @@ Software Engineer | Java Full Stack Developer | SAP BTP & CAP Developer
 <img src="https://skillicons.dev/icons?i=docker" height="45"/>
 <img src="https://skillicons.dev/icons?i=kubernetes" height="45"/>
 <img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 <img src="https://skillicons.dev/icons?i=linux" height="45"/>
 <img src="https://skillicons.dev/icons?i=postman" height="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
 </p>
 
-### SAP Technologies
+---
 
-| Technology                      | Experience |
-| ------------------------------- | ---------- |
-| SAP CAP                         | ✔️         |
-| SAP BTP                         | ✔️         |
-| SAP HANA Cloud                  | ✔️         |
-| SAP XSUAA                       | ✔️         |
-| SAP Work Zone                   | ✔️         |
-| Cloud Foundry                   | ✔️         |
-| SAP Destination Service         | ✔️         |
-| SAP Business Application Studio | ✔️         |
-| SAP Fiori Fundamentals          | ✔️         |
+## ☁️ SAP Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SAP_CAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SAP_BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SAP_HANA_Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SAP_XSUAA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SAP_Work_Zone-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cloud_Foundry-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SAP_HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+
+</p>
 
 ---
 
@@ -146,6 +180,14 @@ Software Engineer | Java Full Stack Developer | SAP BTP & CAP Developer
 * Kubernetes & Container Orchestration
 * Enterprise Application Development
 * System Design Fundamentals
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sushantindi&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+</p>
 
 ---
 
@@ -177,15 +219,30 @@ Software Engineer | Java Full Stack Developer | SAP BTP & CAP Developer
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/sushantindi/sushantindi/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 📊 Profile Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushantindi&theme=tokyonight"/>
+</p>
+
+---
+
 ## 🎯 Career Focus
 
-```text
-Java Full Stack Development
 SAP BTP & CAP Development
+Java Full Stack Development
 Cloud-Native Applications
-Enterprise Software Development
 Backend Engineering
-```
+Enterprise Software Development
+Infrastructure Automation
 
 ---
 
