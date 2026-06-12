@@ -222,7 +222,7 @@ Software Engineer | SAP BTP & CAP Developer | MERN Stack Developer
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/sushantindi/sushantindi/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/SushantIndi/SushantIndi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
